@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shotgun Samurai Portfolio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="captured_image">A captured image from the camera</string>
+    <string name="capture_image">Take Picture</string>
+    <string name="action_exitApp">Exit App</string>
+</resources>
