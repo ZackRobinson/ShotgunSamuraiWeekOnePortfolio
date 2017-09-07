@@ -114,8 +114,6 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_emiCalculator) {
             Intent intent = new Intent(this, SeekbarActivity.class);
             startActivity(intent);
-        } else if (id == R.id.nav_manage) {
-
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
